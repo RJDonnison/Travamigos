@@ -1,4 +1,4 @@
-# Travamigos-copy
+# Travamigos
 I created this website to enhance my skills in 2022. I created this website to
 enhance my css animation skills. I also created this site to learn about javascript
 animation integration. I based the design off the Travamigos website found https://travamigos.com/
